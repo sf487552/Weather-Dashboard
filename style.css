@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;    
+}
+
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+}
+
+.forecast{    
+    font-size: 0.9em;
+}
+
+span{
+    font-size: 1em;
+}
+
+li:hover{
+    background-color: rgb(142, 196, 250);
+    text-decoration: underline;
+}
+
+#future-weather {
+    padding: 10px;
+}
+
+#search-box {
+    background-color: rgb(183, 185, 185);
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Momentum Grotesk', 'Neue Haas Grotesk', 'Swiss721';
+    text-align: center;
+    color: black;
+}
+
+footer h2 {
+    font-size: 20px;
+    text-align: center;
+}
